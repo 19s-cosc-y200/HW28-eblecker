@@ -1,0 +1,21 @@
+/*<!-- Project Name: HW28
+Author: Emilie Blecker
+Date Last Modified: 5/7/2019-->*/
+
+
+caption { font-size: 2em; font-weight: bold; }
+table tbody td { border-bottom: 1px #000033 dashed; padding-left: 25px; }
+
+.table1 { width: 200px; margin: auto; padding-bottom: 50px; }
+.table1 thead { background-color: #EAEAEA; }
+.table1 tbody { font-family: Arial, sans-serif; font-size: .90em; }
+.table1 tfoot { background-color: #EAEAEA; font-weight: bold; text-align: center; }
+    
+.table2 tr:nth-child(even) {background-color: #00ffff;}
+.table2 {margin: auto; width: 400px;}
+.table2 thead { background-color: #c1c1c1; }
+.table2 tbody { font-family: Arial, sans-serif; font-size: .90em;}
+.table2 tfoot { background-color: #c1c1c1; font-weight: bold; text-align: center;}
+    
+        
+
